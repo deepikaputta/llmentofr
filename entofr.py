@@ -3,7 +3,7 @@ import streamlit as st
 from transformers import pipeline
 
 # Replace with your actual API token
-API_TOKEN = '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'
+API_TOKEN = ''
 
 # Initialize the Hugging Face translation pipeline with the specific model
 @st.cache_resource
